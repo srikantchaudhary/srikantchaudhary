@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikantchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="srikantchaudhary" /> </p>
 
-- 🌱 I’m currently learning **Git, GitHub, SQL, PL/SQL, Python**
+- 🌱 I’m currently learning **Git, GitHub, SQL, PL/SQL, Python, PostgreSQL**
 
 - 📫 How to reach me **chaudharysrikant26@gmail.com**
 
