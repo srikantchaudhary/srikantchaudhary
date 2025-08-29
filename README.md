@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srikant Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm chooot</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikantchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="srikantchaudhary" /> </p>
